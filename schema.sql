@@ -3,7 +3,7 @@ CREATE TABLE departments (
      dept_name VARCHAR(40) NOT NULL,
      PRIMARY KEY (dept_no),
      UNIQUE (dept_name)
-)
+);
 
 CREATE TABLE employees (
 	 emp_no INT NOT NULL,
