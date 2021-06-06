@@ -194,6 +194,8 @@ ON (ce.emp_no = de.emp_no)
 INNER JOIN departments AS d
 ON (de.dept_no = d.dept_no);
 
+-- Retiring Sales department employees
+
 SELECT ce.emp_no,
 ce.first_name,
 ce.last_name,
@@ -207,3 +209,19 @@ ON (de.dept_no = d.dept_no)
 WHERE d.dept_name = ('Sales');
 
 SELECT * FROM sales_dept_info
+
+-- Retiring Sales and Development department employees
+
+SELECT ce.emp_no,
+ce.first_name,
+ce.last_name,
+d.dept_name
+INTO sales_development_dept_info
+FROM current_emp as ce
+INNER JOIN dept_emp AS de
+ON (ce.emp_no = de.emp_no)
+INNER JOIN departments AS d
+ON (de.dept_no = d.dept_no)
+WHERE d.dept_name IN ('Sales', 'Development');
+
+SELECT * FROM sales_development_dept_info
