@@ -8,7 +8,7 @@
 
 - As we can see from the below table, many of the employees that are retirement eligible hold senior positions within the company. With a large number of employees that will retire from these positions, Pewlett Hackard needs to make sure they have employees skilled enough to fill these important roles. 
 
-       ![Retiring_titles](https://user-images.githubusercontent.com/81929616/120940545-d0586400-c6eb-11eb-9daf-14a49bea03b6.PNG)
+    ![Retiring_titles](https://user-images.githubusercontent.com/81929616/120940545-d0586400-c6eb-11eb-9daf-14a49bea03b6.PNG)
 
 
 
