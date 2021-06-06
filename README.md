@@ -8,7 +8,9 @@
 
 - As we can see from the below table, many of the employees that are retirement eligible hold senior positions within the company. With a large number of employees that will retire from these positions, Pewlett Hackard needs to make sure they have employees skilled enough to fill these important roles, including naming new managers of 2 departments.
 
-    ![Retiring_titles](https://user-images.githubusercontent.com/81929616/120940545-d0586400-c6eb-11eb-9daf-14a49bea03b6.PNG)
+     ![Retiring_titles](https://user-images.githubusercontent.com/81929616/120940545-d0586400-c6eb-11eb-9daf-14a49bea03b6.PNG)
+
+- The mentorship program could be very integral to the overall health of the company. There are 1549 individuals eligible to participate in the program. These employees will help to guide the younger and less experienced members of the firm so they can fill the roles of the retirement eligible employees.
 
 - 
 
@@ -16,3 +18,10 @@
 
 
 ## Summary
+
+- As we stated above, there are over 90,000 employees eligible for retirement. These roles will need to be filled as the "silver tsumani" begins to make an impact. It would be wise of Pewlett Hackard to begin hiring some experienced mid-level staff before a major impact is felt.
+
+- After analyzing the mentorship program data, there are 1549 individuals eligible. Most of these individuals hold senior titles within the firm and would be qualified to mentor the younger generation of employees.
+
+     ![Mentorship_titles](https://user-images.githubusercontent.com/81929616/120941334-10214a80-c6f0-11eb-9b52-2b6d4eb4cfd1.PNG)
+
